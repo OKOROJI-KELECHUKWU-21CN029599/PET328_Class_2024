@@ -1,6 +1,6 @@
-poro = 0.3
 area = 40
 h = 15
+poro = 0.3 
 sw = 0.28
 boi = 1.21
 
